@@ -1,16 +1,18 @@
-### Hi there 👋
+                  Hi there It's me Wladyslaw 😀
 
-<!--
-**everAtWork/everAtWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![HitCount](http://hits.dwyl.com/everAtWork/everAtWork.svg)](http://hits.dwyl.com/everAtWork/everAtWork)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                        × About me ×
+
+    🎤 Enthusiastic about Frontend & Design
+    🛸 Learning everyday, currently trying my hands on React, Three.js, GSAP & more ...
+    🌋 I’m always looking for challenging work oppurtunities ahead.
+    💬 Actively coding not just within working hours
+    🧗🏾‍♀️ I try to: Go beyond and push the bounds
+    ⚡ Fun fact(s): 
+    -- reads and translates from 🇰🇷Korean
+    -- still finds living in native 🇺🇦Ukraine enjoyable..
+    -- pro at 🌍Geography
+    
+[Twitter](https://twitter.com/everlastiez)
