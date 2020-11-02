@@ -5,7 +5,7 @@
 
                         × About me ×
 
-    💻 Enthusiastic about Frontend in general and technologies such as WebGL or SVG 
+    💻 Curious about Frontend in general and WebGL, animations & SVG in particular 
     📚 Learning everyday, currently exploring GSAP, Anime.js, Three.js & more ...
     🏢 Up for challenging work oppurtunities.
     💬 Actively coding not just within working hours.
