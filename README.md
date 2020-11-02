@@ -12,8 +12,7 @@
     
   
   
-  [cssbattle](https://cssbattle.dev/player/everlastiez)
+  [[@cssbattle]](https://cssbattle.dev/player/everlastiez)
 
-  [codewars](https://www.codewars.com/users/everAtWork)
+  [[@codewars]](https://www.codewars.com/users/everAtWork)
   
-  [globalcode](https://globalcode.ru)
