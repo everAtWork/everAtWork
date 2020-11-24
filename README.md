@@ -1,18 +1,16 @@
-                  Hi there, I am Wladyslaw 😀
-
-
-[![HitCount](http://hits.dwyl.com/everAtWork/everAtWork.svg)](http://hits.dwyl.com/everAtWork/everAtWork)
-
                         × About me ×
 
     💻 Curious about Frontend in general and WebGL, animations & SVG in particular 
     📚 Learning everyday, currently exploring GSAP, Anime.js, Three.js & more ...
     🏢 Up for challenging work oppurtunities.
     💬 Actively coding not just within working hours.
+    В программировании вообще ничего не смыслящий гуманитарий и нубас и жиробас
+    
+    
     
   
   
-  [[@cssbattle]](https://cssbattle.dev/player/everlastiez)
+      тут новый сезон подкатил в cssbattle [[@cssbattle]](https://cssbattle.dev/player/everlastiez)
 
-  [[@codewars]](https://www.codewars.com/users/everAtWork)
+      competitiveness© [[@codewars]](https://www.codewars.com/users/everAtWork)
   
