@@ -10,7 +10,7 @@
     
   
   
-      тут новый сезон подкатил в cssbattle [[@cssbattle]](https://cssbattle.dev/player/everlastiez)
+       [[тут новый сезон подкатил в @cssbattle]](https://cssbattle.dev/player/everlastiez)
 
-      competitiveness© [[@codewars]](https://www.codewars.com/users/everAtWork)
+      [[задачки© @codewars]](https://www.codewars.com/users/everAtWork)
   
